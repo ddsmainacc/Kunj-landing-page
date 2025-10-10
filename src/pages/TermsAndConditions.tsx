@@ -21,7 +21,7 @@ function TermsAndConditions() {
           <div className="prose prose-invert prose-slate max-w-none">
             <div className="text-slate-300 space-y-6 leading-relaxed">
               <p>
-                These terms and conditions apply to all mobile applications and games (hereinafter referred to as "Applications") for mobile devices that were created by DAYDREAMSOFT INFOTECH LLP (hereinafter referred to as "Service Provider") as Free services.
+                These terms and conditions apply to all mobile applications and games (hereinafter referred to as "Applications") for mobile devices that were created by Kunj INFOTECH (hereinafter referred to as "Service Provider") as Free services.
               </p>
 
               <p>
@@ -109,8 +109,8 @@ function TermsAndConditions() {
               </h2>
               <p>
                 If you have any questions or suggestions about the Terms and Conditions, please contact the Service Provider at{' '}
-                <a href="mailto:contact@daydreamsoft.com" className="text-blue-400 hover:text-blue-300">
-                  contact@daydreamsoft.com
+                <a href="mailto:contact@kunjinfotech.com" className="text-blue-400 hover:text-blue-300">
+                  contact@kunjinfotech.com
                 </a>.
               </p>
             </div>

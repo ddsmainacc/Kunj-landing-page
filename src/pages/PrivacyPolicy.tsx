@@ -21,7 +21,7 @@ function PrivacyPolicy() {
           <div className="prose prose-invert prose-slate max-w-none">
             <div className="text-slate-300 space-y-6 leading-relaxed">
               <p>
-                This privacy policy applies to all mobile applications and games (hereinafter referred to as "Applications") developed by DAYDREAMSOFT INFOTECH LLP (hereinafter referred to as "Service Provider") provided as free services. These services are offered "AS IS."
+                This privacy policy applies to all mobile applications and games (hereinafter referred to as "Applications") developed by Kunj INFOTECH (hereinafter referred to as "Service Provider") provided as free services. These services are offered "AS IS."
               </p>
 
               <h2 className="text-2xl font-semibold text-white mt-8 mb-4">
@@ -144,8 +144,8 @@ function PrivacyPolicy() {
 
               <p>
                 If you would like the Service Provider to delete user-provided data, please contact at{' '}
-                <a href="mailto:contact@daydreamsoft.com" className="text-blue-400 hover:text-blue-300">
-                  contact@daydreamsoft.com
+                <a href="mailto:contact@kunjinfotech.com" className="text-blue-400 hover:text-blue-300">
+                  contact@kunjinfotech.com
                 </a>. Some data may be required for the Applications to function properly.
               </p>
 
@@ -186,8 +186,8 @@ function PrivacyPolicy() {
               </h2>
               <p>
                 If you have any questions regarding privacy while using the Applications, please contact the Service Provider at{' '}
-                <a href="mailto:contact@daydreamsoft.com" className="text-blue-400 hover:text-blue-300">
-                  contact@daydreamsoft.com
+                <a href="mailto:contact@kunjinfotech.com" className="text-blue-400 hover:text-blue-300">
+                  contact@kunjinfotech.com
                 </a>.
               </p>
             </div>

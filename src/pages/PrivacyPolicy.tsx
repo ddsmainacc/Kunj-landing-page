@@ -21,7 +21,7 @@ function PrivacyPolicy() {
           <div className="prose prose-invert prose-slate max-w-none">
             <div className="text-slate-300 space-y-6 leading-relaxed">
               <p>
-                This privacy policy applies to all mobile applications and games (hereinafter referred to as "Applications") developed by Kunj INFOTECH (hereinafter referred to as "Service Provider") provided as free services. These services are offered "AS IS."
+                This privacy policy applies to all mobile applications and games (hereinafter referred to as "Applications") developed by KUNJ INFOTECH (hereinafter referred to as "Service Provider") provided as free services. These services are offered "AS IS."
               </p>
 
               <h2 className="text-2xl font-semibold text-white mt-8 mb-4">

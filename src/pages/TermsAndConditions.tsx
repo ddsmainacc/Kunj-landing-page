@@ -21,7 +21,7 @@ function TermsAndConditions() {
           <div className="prose prose-invert prose-slate max-w-none">
             <div className="text-slate-300 space-y-6 leading-relaxed">
               <p>
-                These terms and conditions apply to all mobile applications and games (hereinafter referred to as "Applications") for mobile devices that were created by Kunj INFOTECH (hereinafter referred to as "Service Provider") as Free services.
+                These terms and conditions apply to all mobile applications and games (hereinafter referred to as "Applications") for mobile devices that were created by KUNJ INFOTECH (hereinafter referred to as "Service Provider") as Free services.
               </p>
 
               <p>
